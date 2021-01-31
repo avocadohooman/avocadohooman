@@ -11,6 +11,8 @@ Also, a 100% sci-fi nerd (currently reading Hyperion - The Rise of Endymion by D
 
 My portfolio: http://gerhardmolin.com/
 
+Futurish Newsletter (subscribe!): https://www.teamfuturish.com/
+
 </p>
 </samp>
 
