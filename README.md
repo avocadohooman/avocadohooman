@@ -5,7 +5,7 @@ Software Engineer / UX Engineer, entrepreneur, and product strategist. Proud stu
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research and driven by principles.
 
-In my free time you can find me frisbee golfing, bouldering, playing board games and writing on the Futurish newsletter, and learning more about machine learning.
+In my free time you can find me frisbee golfing, bouldering, playing board games and working on the Futurish newsletter, and learning more about machine learning.
 
 Also, a 100% sci-fi nerd (currently reading Hyperion - The Rise of Endymion by Dan Simmons) and a C language fanboy.
 
