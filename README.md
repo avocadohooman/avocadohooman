@@ -1,9 +1,9 @@
 ### Hi there 👋
 <samp>
 <p>
-Software Engineer / UX Engineer, entrepreneur, and product strategist. Proud student at Hive (https://hive.fi/).
+Full Stack UX Engineer, entrepreneur, and product strategist. Proud student at Hive (https://hive.fi/).
 
-Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research and driven by principles.
+Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers. 
 
 In my free time you can find me frisbee golfing, bouldering, playing board games and working on the Futurish newsletter, and learning more about machine learning.
 
