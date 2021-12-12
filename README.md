@@ -1,7 +1,7 @@
 ### Hi there 👋
 <samp>
 <p>
-Full Stack UX Engineer, entrepreneur, and product strategist. Proud student at Hive (https://hive.fi/).
+Full-Stack Engineer, entrepreneur, and product strategist. Proud student at Hive (https://hive.fi/).
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers. 
 
