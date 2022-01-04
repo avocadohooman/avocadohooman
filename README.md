@@ -5,7 +5,7 @@ Full-Stack Engineer, entrepreneur, and product strategist. Proud student at Hive
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers. 
 
-In my free time you can find me frisbee golfing, bouldering, playing board games and working on the Futurish newsletter, and learning more about full-stack development + soon machine learning.
+In my free time you can find me frisbee golfing, bouldering, playing board games and working on the Futurish newsletter, and learning more about Web3 (smart contracts in Solidity, and NFT minting).
 
 Also, a 100% sci-fi nerd (currently looking for a new sci-fi book, any recommendations?) and a C language fanboy. 
 C mentor on Exercsim.io (https://exercism.io/profiles/avocadohooman)
