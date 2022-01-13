@@ -3,11 +3,15 @@
 <p>
 Full-Stack Engineer, entrepreneur, and product strategist. Proud student at Hive (https://hive.fi/).
 
-Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers. 
+Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers.
 
-In my free time you can find me frisbee golfing, bouldering, playing board games and working on Web3  applications (smart contracts in Solidity, and NFTs collectibles).
+Currently obsessed with Web3 applications, concretely working with Solidity smart contract and deploying on the ETH blockchain.
 
-Also, a 100% sci-fi nerd (currently looking for a new sci-fi book, any recommendations?) and a C language fanboy. 
+Web2 stack: React, Angular, Typescript, GraphQL/Apollo, Rest API, Node.js, Nest.js, Next.js, Postgresql, TypeORM
+Web3 stack: Ethereum, Solidity, Solana, Rust, Hardhat, Anchor, IPFS
+
+In my free time, you can find me frisbee golfing, bouldering, playing board games, and working on Web3 applications (smart contracts in Solidity, and NFTs collectibles).
+
 C mentor on Exercsim.io (https://exercism.io/profiles/avocadohooman)
 
 My portfolio: http://gerhardmolin.com/
