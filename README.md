@@ -7,8 +7,8 @@ Passionate learner and product-enthusiast, who loves to create products loved by
 
 Currently obsessed with Web3 applications, concretely working with Solidity smart contract and deploying on the ETH blockchain.
 
-Web2 stack: React, Angular, Typescript, GraphQL/Apollo, Rest API, Node.js, Nest.js, Next.js, Postgresql, TypeORM
-Web3 stack: Ethereum, Solidity, Solana, Rust, Hardhat, Anchor, IPFS
+**Web2 stack**: React, Angular, Typescript, GraphQL/Apollo, Rest API, Node.js, Nest.js, Next.js, Postgresql, TypeORM
+  **Web3 stack**: Ethereum, Solidity, Solana, Rust, Hardhat, Anchor, IPFS
 
 In my free time, you can find me frisbee golfing, bouldering, playing board games, and working on Web3 applications (smart contracts in Solidity, and NFTs collectibles).
 
