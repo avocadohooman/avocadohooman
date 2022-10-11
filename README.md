@@ -5,7 +5,7 @@ Full-Stack Engineer, entrepreneur, and product strategist. Proud Hive (https://h
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers.
 
-Currently learning: Go, AWS Redshift and Flutter
+**Currently learning**: Flutter
  
  **Web2 stack**: Go, Node.js, Nest.js, Next.js, Postgresql, AWS Redshift, AWS Lambda, React, Angular, Typescript, GraphQL/Apollo, Rest API, TypeORM, Chakra UI, Tailwind CSS
 
