@@ -5,11 +5,12 @@ Full-Stack Engineer, entrepreneur, and product strategist. Proud Hive (https://h
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers.
 
-Currently obsessed with Web3 applications, concretely working with Solidity smart contract and deploying on the ETH blockchain.
+Currently learning: Go, AWS Redshift and Flutter
  
+ **Web2 stack**: Go, Node.js, Nest.js, Next.js, Postgresql, AWS Redshift, AWS Lambda, React, Angular, Typescript, GraphQL/Apollo, Rest API, TypeORM, Chakra UI, Tailwind CSS
+
 **Web3 stack**: Ethereum, Solidity, Solana, Rust, Hardhat, Anchor, IPFS
 
-**Web2 stack**: Go, Node.js, Nest.js, Next.js, Postgresql, Redshift, React, Angular, Typescript, GraphQL/Apollo, Rest API, TypeORM, Chakra UI, Tailwind CSS
 
 In my free time, you can find me frisbee golfing, bouldering, playing board games, and working on Web3 applications (smart contracts in Solidity, and NFTs collectibles).
 
