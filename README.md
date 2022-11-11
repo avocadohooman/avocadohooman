@@ -1,7 +1,7 @@
 ### Hi there 👋
 <samp>
 <p>
-Full-Stack Engineer, entrepreneur, and product strategist. Proud Hive (https://hive.fi/) alumni.
+Software Engineer, entrepreneur, and product strategist. Proud Hive (https://hive.fi/) alumni.
 
 Passionate learner and product-enthusiast, who loves to create products loved by humans, backed by research, driven by principles, and implementable by engineers.
 
