@@ -10,7 +10,8 @@ Passionate learner and product-enthusiast, who loves to create products loved by
  **Web2 stack**: Go, Node.js, Nest.js, Next.js, Postgresql, AWS Redshift, AWS Lambda, React, Angular, Typescript, GraphQL/Apollo, Rest API, TypeORM, Chakra UI, Tailwind CSS
 
 
-In my free time, you can find me frisbee golfing, bouldering, playing board games, and working on Web3 applications (smart contracts in Solidity, and NFTs collectibles).
+In my free time, you can find me frisbee golfing, bouldering, playing board games, and working on projects that inspire me. 
+ 
 
 C mentor on Exercsim.io (https://exercism.io/profiles/avocadohooman)
 
